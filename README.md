@@ -1,1 +1,4 @@
 # Intelligent-build-and-release-manager
+The Intelligent Build and Release Manager is an AI-powered DevOps project designed to automate software building, testing, and deployment using Git, Jenkins, CI/CD pipelines, and Machine Learning. The system monitors code changes pushed to GitHub, triggers automated builds through Jenkins, runs tests, and analyzes results to predict potential failures before deployment.
+
+This project uses Artificial Intelligence to evaluate build logs, test reports, and commit history to detect errors early and suggest fixes to developers. If the build passes all tests, the system automatically deploys the application to development, QA, or production environments. If issues are found, it generates an intelligent debug report to help developers resolve errors faster.
